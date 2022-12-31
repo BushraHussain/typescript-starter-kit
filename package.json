@@ -1,7 +1,6 @@
 {
   "name": "project-1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BushraHussain/typescript-starter-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BushraHussain/typescript-starter-kit/issues"
+  },
+  "homepage": "https://github.com/BushraHussain/typescript-starter-kit#readme",
+  "description": ""
 }
